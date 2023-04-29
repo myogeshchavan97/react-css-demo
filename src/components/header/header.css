@@ -1,0 +1,8 @@
+.header .title {
+  color: maroon;
+  text-transform: uppercase;
+}
+
+.header .subtitle {
+  color: red;
+}
